@@ -8,7 +8,7 @@ public class Input {
         int num2;
         int result;
         System.out.println("Enter num 1 valule: ");
-
+        //input number two
         num1 = numInput.nextInt();
         System.out.println("Enter num 2 valule: ");
         num2 = numInput.nextInt();
